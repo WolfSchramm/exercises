@@ -61,8 +61,13 @@
 <item elementID="=02_iterator_schreiben" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=01_iterieren" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=04_set" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=03_list" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=05_map" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=03_list" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=06_sortieren" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1453911567513_11" label="11_streams" name="11_streams">
+<item elementID="=01_interne_iteration" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02_map_filter" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=03_reduce" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 </workingSets>
